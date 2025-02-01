@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Muhamad Rifai! 👋</h1>
 
-<h2 align="center"><b>I'm a Web Development Enthusiast</b> passionate about exploring various web technologies, especially <b>front-end development</b>. Currently, I'm diving into <b>HTML, TAILWIND CSS, JavaScript, and React.</b></h2>
+<h2 align="center"><b>I'm a Web Development Enthusiast</b> passionate about exploring various web technologies, especially <b>front-end development</b>. Currently, I am exploring <b>TAILWIND CSS, JavaScript, React for front-end and PHP, Laravel for back-end. .</b></h2>
 
 <h3 align="center">I'm also a student at <b>Horizon University Indonesia</b>, studying <b>Information Systems</b>.</h3>
-
-<h2 align="center">FOCUS ON 🎯</h2>
-<p align="center"><b>TailwindCSS</b></p>
-<p align="center"><b>React</b></p>
 
 <h2 align="center">Contact Me 📬</h2>
 <p align="center">Email: <a href="mailto:muhamadrifay989@gmail.com"><b>muhamadrifay989@gmail.com</b></a></p>
