@@ -6,14 +6,17 @@
 
 <h3 align="center">I'm also a student at <b>Horizon University Indonesia</b>, studying <b>Information Systems</b>.</h3>
 
-## FOCUS ON 🎯
-- **TailwindCSS**
-- **React**
+<h2 align="center"> FOCUS ON 🎯</h2>
+- <p><b align="center">TailwindCSS</b></p>
+- <p><b align="center">React</b></p>
 
 ## Contact Me 📬
 - Email: [muhamadrifay989@gmail.com](mailto:muhamadrifay989@gmail.com)
 - LinkedIn: [Muhamad Rifai](https://www.linkedin.com/in/muhamad-rifai-553a212a7)
 - Instagram: [@mr.user404_](https://www.instagram.com/mr.user404_?igsh=eTF2djZuNTJmdmd5)
 
-![Excited](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29xamZ3cWo2Z210dXF2cTdjbmEyY205cW44cHQ3emc0a3dhaGh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29xamZ3cWo2Z210dXF2cTdjbmEyY205cW44cHQ3emc0a3dhaGh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Excited" width="300">
+</p>
+
 
