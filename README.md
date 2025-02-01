@@ -1,9 +1,10 @@
 <h1 align="center">
 # Hi, I'm Muhamad Rifai! 👋 </h1>
 
-<h2 align="center"> I'm a **Web Development Enthusiast** passionate about exploring various web technologies, especially **front-end development**. Currently, I'm diving into **HTML, TAILWIND CSS, JavaScript,**, and **React**.</h2>
+<h2 align="center"> <b>I'm a Web Development Enthusiast</b> passionate about exploring various web technologies, especially <b>front-end development</b>. Currently, I'm diving into 
+ <b>HTML, TAILWIND CSS, JavaScript, and React.</b></h2>
 
-I'm also a student at **Horizon University Indonesia**, studying **Information Systems**.
+<h3 align="center">I'm also a student at <b>Horizon University Indonesia</b>, studying <b>Information Systems</b>.</h3>
 
 ## FOCUS ON 🎯
 - **TailwindCSS**
