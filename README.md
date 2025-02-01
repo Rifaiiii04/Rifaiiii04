@@ -1,4 +1,4 @@
-# Hi, I'm Rifaiiii04! 👋
+# Hi, I'm Muhamad Rifai! 👋
 
 I'm a **Web Development Enthusiast** passionate about exploring various web technologies, especially **front-end development**. Currently, I'm diving into **HTML, TAILWIND CSS, JavaScript,**, and **React**.
 
