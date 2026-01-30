@@ -7,4 +7,4 @@
 ## Contact Me 📬
 - Email: [muhamadrifay989@gmail.com](mailto:muhamadrifay989@gmail.com)
 - LinkedIn: [Muhamad Rifai](https://www.linkedin.com/in/muhamad-rifai-553a212a7)
-- Instagram: [@mr.user404_](https://www.instagram.com/muhamadrifaiiii04/)
+- Instagram: [@muhamadrifaiiii04_](https://www.instagram.com/muhamadrifaiiii04/)
