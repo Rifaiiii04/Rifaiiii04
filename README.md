@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rifaiiii04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-ivory-eta-75.vercel.app/api?username=Rifaiiii04&show_icons=true&theme=tokyonight" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhamad Rifai</h1>
@@ -15,21 +15,16 @@
 - 🌱 Currently learning **Next.js**
 - 🎯 Focus: **Frontend Web Development**
 - 🧠 Interested in UI/UX, performance, and real-world web apps
-- 📫 Reach me via social links below
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhamad-rifai-553a212a7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/ericko.anjaymabar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/muhamadrifaiiii04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats-ivory-eta-75.vercel.app/api/top-langs?username=Rifaiiii04&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rifaiiii04&theme=tokyonight" />
 </p>
 
 ---
@@ -47,20 +42,12 @@
 
 ---
 
-### 📊 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifaiiii04&theme=tokyonight" />
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhamad-rifai-553a212a7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/muhamadrifaiiii04/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
 </p>
-
----
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifaiiii04&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📌 Notes
-This profile is still under development.  
-Projects and contributions will continue to grow with consistent learning and practice.
