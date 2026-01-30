@@ -5,6 +5,6 @@
 <h4 align="center">I'm also a student at <b>Horizon University Indonesia</b>, studying <b>Information Systems</b>.</h4>
 
 ## Contact Me 📬
-- Email: [muhamadrifay989@gmail.com](mailto:muhamadrifay989@gmail.com)
+- Email: [muhamadrifay989@gmail.com](mailto:muhamadrifay989@gmail.com) || [payyyy36@gmail.com](mailto:payyyy36@gmail.com)
 - LinkedIn: [Muhamad Rifai](https://www.linkedin.com/in/muhamad-rifai-553a212a7)
 - Instagram: [@muhamadrifaiiii04_](https://www.instagram.com/muhamadrifaiiii04/)
