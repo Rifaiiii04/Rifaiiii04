@@ -48,18 +48,6 @@ My primary focus is **full-stack web development**, using JavaScript, TypeScript
 
 ---
 
-### 📊 GitHub Overview
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rifaiiii04&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifaiiii04&layout=compact&hide_border=true" alt="Most used programming languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm interested in opportunities related to **Software Engineering, Full-Stack Development, Backend Development, and AI-integrated applications**.
