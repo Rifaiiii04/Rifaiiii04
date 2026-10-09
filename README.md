@@ -48,29 +48,6 @@ My primary focus is **full-stack web development**, using JavaScript, TypeScript
 
 ---
 
-### 🚀 Featured Projects
-
-#### 1. SAMBAL — AI-Powered Inventory Management System
-
-An inventory management application combining a web dashboard, OCR-based receipt scanning, and workflow automation.
-
-- Built a responsive inventory dashboard using React.js and Tailwind CSS.
-- Integrated OCR-based receipt scanning to help extract information from purchase receipts.
-- Connected n8n workflows with inventory operations and WhatsApp notifications.
-- Worked with REST API integration and frontend authentication flows.
-
-**Tech:** React.js · JavaScript · Tailwind CSS · REST API · n8n · OCR
-
-[View Repository](https://github.com/Rifaiiii04/ims-inventory.git)
-
-#### 2. Realtime Point of Sale (POS)
-
-A restaurant POS web application built with Next.js, TypeScript, and Supabase, featuring interactive interfaces and restaurant table-layout visualization.
-
-- Developed application interfaces using the Next.js App Router and React.
-- Built reusable UI components with Tailwind CSS and shadcn/ui.
-- Implemented interactive table-layout visualization using React Flow.
-
 ### 📊 GitHub Overview
 
 <p>
