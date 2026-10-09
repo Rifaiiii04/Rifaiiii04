@@ -33,7 +33,7 @@ My primary focus is **full-stack web development**, using JavaScript, TypeScript
 **Backend Development & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,codeigniter,mysql,postgres,supabase" alt="Node.js, Express, Laravel, CodeIgniter, MySQL, PostgreSQL, Supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,supabase" alt="Node.js, Express, Laravel, MySQL, PostgreSQL, Supabase" />
 </p>
 
 **Mobile Development, Automation & Tools**
@@ -70,26 +70,6 @@ A restaurant POS web application built with Next.js, TypeScript, and Supabase, f
 - Developed application interfaces using the Next.js App Router and React.
 - Built reusable UI components with Tailwind CSS and shadcn/ui.
 - Implemented interactive table-layout visualization using React Flow.
-- Worked with Supabase for application data and authentication flows.
-
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Supabase · React Flow
-
-[View Repository](https://github.com/Rifaiiii04/realtime-pos)
-
-#### 3. HijauLoka — E-Commerce Web & Mobile Application
-
-A cross-platform e-commerce project with a web application, Flutter mobile client, and backend API integration.
-
-- Developed responsive web interfaces using CodeIgniter 3, PHP, and Tailwind CSS.
-- Integrated REST APIs to exchange data between web and mobile applications.
-- Worked with MySQL-backed product and transaction-related workflows.
-- Connected the Flutter application with backend services.
-
-**Tech:** PHP · CodeIgniter 3 · Tailwind CSS · Flutter · MySQL · REST API
-
-[Web Repository](https://github.com/Rifaiiii04/hijauloka-user.git) · [Mobile Repository](https://github.com/Rifaiiii04/HijauLokaApps.git)
-
----
 
 ### 📊 GitHub Overview
 
