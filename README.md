@@ -1,64 +1,114 @@
-<h1 align="center">Hi 👋, I'm Muhamad Rifai</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# Hi 👋, I'm Muhamad Rifai
+
+### Software Engineer | Full-Stack Developer | AI & Workflow Automation Enthusiast
+
+I'm an Information Systems student from Indonesia who enjoys building practical software solutions, from responsive web applications and REST APIs to database-driven systems and workflow automation.
+
+My primary focus is **full-stack web development**, using JavaScript, TypeScript, React, Next.js, Node.js, and SQL databases. I'm also exploring AI-powered application features, OCR integration, and automation workflows to solve real-world problems.
+
+- 🔭 **Currently building:** Full-stack web applications and AI-powered tools
+- 💻 **Core focus:** Frontend development, backend APIs, and database integration
+- 🤖 **Exploring:** AI integration, OCR, and workflow automation with n8n
+- 🛠️ **Interested in:** Software engineering, system design, and maintainable application architecture
+- 📂 **Portfolio:** [muhamadrifai.netlify.app](https://muhamadrifai.netlify.app/)
+- 💼 **LinkedIn:** [Muhamad Rifai](https://www.linkedin.com/in/muhamad-rifai-553a212a7/)
+- 📧 **Email:** muhamadrifai.dev@gmail.com
 
 ---
 
-### 👨‍💻 About Me
-I focus on building **clean, responsive, and user-friendly web interfaces**.  
-Currently deepening my understanding of the **React and Next.js ecosystem**, while improving how I structure components and manage data fetching.
+### 🧰 Tech Stack
 
-I enjoy working on:
-- Translating UI designs into code
-- Building reusable components
-- Improving layout consistency and responsiveness
+**Languages**
 
-Still learning, still building, and aiming to grow through real, hands-on projects.
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,dart" alt="JavaScript, TypeScript, Python, PHP, Dart" />
+</p>
 
----
+**Frontend Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhamad-rifai-553a212a7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/https://www.facebook.com/ericko.anjaymabar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/muhamadrifaiiii04/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" alt="React, Next.js, Vue.js, Tailwind CSS" />
+</p>
+
+**Backend Development & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,codeigniter,mysql,postgres,supabase" alt="Node.js, Express, Laravel, CodeIgniter, MySQL, PostgreSQL, Supabase" />
+</p>
+
+**Mobile Development, Automation & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,docker,git,github,postman,figma" alt="Flutter, Docker, Git, GitHub, Postman, Figma" />
+  <br/>
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Workflow Automation" />
+  <img src="https://img.shields.io/badge/REST%20API-Integration-005571?style=flat-square" alt="REST API Integration" />
+  <img src="https://img.shields.io/badge/OCR-Document%20Processing-6A5ACD?style=flat-square" alt="OCR Document Processing" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
+### 🚀 Featured Projects
+
+#### 1. SAMBAL — AI-Powered Inventory Management System
+
+An inventory management application combining a web dashboard, OCR-based receipt scanning, and workflow automation.
+
+- Built a responsive inventory dashboard using React.js and Tailwind CSS.
+- Integrated OCR-based receipt scanning to help extract information from purchase receipts.
+- Connected n8n workflows with inventory operations and WhatsApp notifications.
+- Worked with REST API integration and frontend authentication flows.
+
+**Tech:** React.js · JavaScript · Tailwind CSS · REST API · n8n · OCR
+
+[View Repository](https://github.com/Rifaiiii04/ims-inventory.git)
+
+#### 2. Realtime Point of Sale (POS)
+
+A restaurant POS web application built with Next.js, TypeScript, and Supabase, featuring interactive interfaces and restaurant table-layout visualization.
+
+- Developed application interfaces using the Next.js App Router and React.
+- Built reusable UI components with Tailwind CSS and shadcn/ui.
+- Implemented interactive table-layout visualization using React Flow.
+- Worked with Supabase for application data and authentication flows.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Supabase · React Flow
+
+[View Repository](https://github.com/Rifaiiii04/realtime-pos)
+
+#### 3. HijauLoka — E-Commerce Web & Mobile Application
+
+A cross-platform e-commerce project with a web application, Flutter mobile client, and backend API integration.
+
+- Developed responsive web interfaces using CodeIgniter 3, PHP, and Tailwind CSS.
+- Integrated REST APIs to exchange data between web and mobile applications.
+- Worked with MySQL-backed product and transaction-related workflows.
+- Connected the Flutter application with backend services.
+
+**Tech:** PHP · CodeIgniter 3 · Tailwind CSS · Flutter · MySQL · REST API
+
+[Web Repository](https://github.com/Rifaiiii04/hijauloka-user.git) · [Mobile Repository](https://github.com/Rifaiiii04/HijauLokaApps.git)
+
+---
+
+### 📊 GitHub Overview
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rifaiiii04&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifaiiii04&layout=compact&hide_border=true" alt="Most used programming languages" />
 </p>
 
 ---
 
-<p align="center">
-  This profile is a work in progress.  
-  Projects and skills will continue to grow with consistent practice.
-</p>
+### 🤝 Let's Connect
+
+I'm interested in opportunities related to **Software Engineering, Full-Stack Development, Backend Development, and AI-integrated applications**.
+
+Feel free to explore my repositories or connect with me to discuss software development and potential collaborations.
+
+- Portfolio: https://muhamadrifai.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/muhamad-rifai-553a212a7/
+- GitHub: https://github.com/Rifaiiii04
