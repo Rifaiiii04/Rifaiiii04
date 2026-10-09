@@ -45,15 +45,3 @@ My primary focus is **full-stack web development**, using JavaScript, TypeScript
   <img src="https://img.shields.io/badge/REST%20API-Integration-005571?style=flat-square" alt="REST API Integration" />
   <img src="https://img.shields.io/badge/OCR-Document%20Processing-6A5ACD?style=flat-square" alt="OCR Document Processing" />
 </p>
-
----
-
-### 🤝 Let's Connect
-
-I'm interested in opportunities related to **Software Engineering, Full-Stack Development, Backend Development, and AI-integrated applications**.
-
-Feel free to explore my repositories or connect with me to discuss software development and potential collaborations.
-
-- Portfolio: https://muhamadrifai.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/muhamad-rifai-553a212a7/
-- GitHub: https://github.com/Rifaiiii04
